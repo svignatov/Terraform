@@ -32,4 +32,3 @@ ingress {
     protocol = "tcp"
   }
 }
-
